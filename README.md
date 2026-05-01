@@ -83,7 +83,7 @@ sh install.aex
 
 - *Bagaimana cara menginstal GNURoot di Terminal Debian?*
 
-- Buka aplikasi GNURoot Debian dan ketik perintah berikut.
+- *Buka aplikasi GNURoot Debian dan ketik perintah berikut.*
 ```
 apt update && apt upgrade -y
 ```
