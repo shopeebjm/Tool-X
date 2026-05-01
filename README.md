@@ -109,7 +109,7 @@ sh install.aex
 
 - *Tool-X kini telah berhasil diinstal. Untuk menjalankan Tool-X, ketik.*
 
-- *Sekarang ketik Tool-X dari mana saja di terminal Anda untuk membuka Tool-X.But use this tool only for legal purpose.*
+- *Sekarang ketik Tool-X dari mana saja di terminal Anda untuk membuka Tool-X.Tetapi gunakan alat ini hanya untuk tujuan yang sah.*
 
 # Social Media
 
