@@ -41,7 +41,7 @@ Install alat apa pun hanya dengan sekali klik. Anda dapat menginstal hampir 70 a
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
 
-- Unduh Aplikasi Termux Nya Dibawah Ini
+Unduh Aplikasi Termux Nya Dibawah Ini
 
 👇👇
 
