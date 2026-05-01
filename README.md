@@ -72,16 +72,16 @@ chmod +x install.aex
 ```
 sh install.aex
 ```
-if not work than type 
+Jika Tidak Berhasil,Ketik
 ```
 ./install.aex
 ```
 
-## Now Tool-X is installed successfully. To run Tool-X Type
+*Now Tool-X is installed successfully. To run Tool-X Type*
 
 Now type Tool-X from anywhare in your terminl to open Tool-X.
 
-# How to Install in GNURoot Debian Terminal ?
+*How to Install in GNURoot Debian Terminal ?*
 
 Open the GNURoot Debian app and type following commands.
 ```
@@ -102,12 +102,12 @@ chmod +x install.aex
 ```
 sh install.aex
 ```
-if not work than type 
+Jika Tidak Berhasil,Ketik
 ```
 ./install.aex
 ```
 
-## Now Tool-X is installed successfully. To run Tool-X Type
+*Now Tool-X is installed successfully. To run Tool-X Type*
 
 Now type Tool-X from anywhare in your terminl to open Tool-X. But use this tool only for legal purpose.
 
