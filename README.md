@@ -49,9 +49,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
-<br/>
-
-**Command Prompt On Termux**
+# Command Prompt On Termux
 ```
 apt update && apt upgrade -y
 ```
