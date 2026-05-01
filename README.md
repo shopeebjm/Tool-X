@@ -72,18 +72,18 @@ chmod +x install.aex
 ```
 sh install.aex
 ```
-Jika Tidak Berhasil,Ketik
+*Jika Tidak Berhasil,Ketik*
 ```
 ./install.aex
 ```
 
-*Tool-X kini telah berhasil diinstal. Untuk menjalankan Tool-X, ketik.*
+- *Tool-X kini telah berhasil diinstal. Untuk menjalankan Tool-X, ketik.*
 
-Now type Tool-X from anywhare in your terminl to open Tool-X.
+- *Sekarang ketik Tool-X dari mana saja di terminal Anda untuk membuka Tool-X.*
 
-*How to Install in GNURoot Debian Terminal ?*
+- *Bagaimana cara menginstal GNURoot di Terminal Debian?*
 
-Open the GNURoot Debian app and type following commands.
+- Buka aplikasi GNURoot Debian dan ketik perintah berikut.
 ```
 apt update && apt upgrade -y
 ```
@@ -102,14 +102,14 @@ chmod +x install.aex
 ```
 sh install.aex
 ```
-Jika Tidak Berhasil,Ketik
+*Jika Tidak Berhasil,Ketik*
 ```
 ./install.aex
 ```
 
-*Now Tool-X is installed successfully. To run Tool-X Type*
+- *Tool-X kini telah berhasil diinstal. Untuk menjalankan Tool-X, ketik.*
 
-Now type Tool-X from anywhare in your terminl to open Tool-X. But use this tool only for legal purpose.
+- *Sekarang ketik Tool-X dari mana saja di terminal Anda untuk membuka Tool-X.But use this tool only for legal purpose.*
 
 # Social Media
 
