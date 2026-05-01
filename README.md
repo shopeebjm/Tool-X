@@ -1,9 +1,16 @@
-### PLZ check also: https://github.com/ekadanuarta/Tool-X
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=TikTok+@shopee.bjm" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=s+h+o+p+e+e+b+j+m" />
+</p>
 
+<h2 align="center">
+  
+[![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
-# What is Tool-X ?
+### PLZ Cek Juga: https://github.com/ekadanuarta/Tool-X
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=vaginessa.visitor-badge-tool-x" />
+# Apa Itu Tool-X ?
 
 Tool-X adalah penginstal alat peretasan Kali Linux untuk Android. Tool-X dikembangkan oleh Rajkumar Dusad. Dengan bantuan Tool-X, Anda dapat menginstal alat-alat terbaik di aplikasi Termux pada Android. Di Tool-X terdapat hampir 70 alat peretasan yang tersedia untuk aplikasi Termux dan terminal GNURoot Debian. Anda dapat menginstal alat apa pun hanya dengan sekali klik. Tool-X dibuat khusus untuk Termux dan terminal GNURoot Debian.
 <br/><br/><br/>
@@ -40,21 +47,42 @@ Install alat apa pun hanya dengan sekali klik. Anda dapat menginstal hampir 70 a
 
 <br/><br/><br/>
 
-# How to Install in termux ?
+# Persyaratan
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+<h2 align="center">
 
-Open the termux app and type following commands.
+Unduh Aplikasi Termux Nya Dibawah Ini
 
-* `apt update`
+👇👇
 
-* `pkg install git`
+[![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
-* `git clone https://github.com/vaginessa/Tool-X.git`
+[![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
-* `cd Tool-X`
 
-* `chmod +x install.aex`
-
-* `sh install.aex` if not work than type `./install.aex`
+# Command Prompt On Termux
+```
+apt update && apt upgrade -y
+```
+```
+pkg install git
+```
+```
+git clone https://github.com/shopeebjm/Tool-X.git
+```
+```
+cd Tool-X
+```
+```
+chmod +x install.aex
+```
+```
+sh install.aex
+```
+if not work than type 
+```
+./install.aex
+```
 
 <br/>
 
