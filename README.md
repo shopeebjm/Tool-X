@@ -8,8 +8,6 @@
   
 [![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
-### PLZ Cek Juga: https://github.com/ekadanuarta/Tool-X
-
 # Apa Itu Tool-X ?
 
 Tool-X adalah penginstal alat peretasan Kali Linux untuk Android. Tool-X dikembangkan oleh Rajkumar Dusad. Dengan bantuan Tool-X, Anda dapat menginstal alat-alat terbaik di aplikasi Termux pada Android. Di Tool-X terdapat hampir 70 alat peretasan yang tersedia untuk aplikasi Termux dan terminal GNURoot Debian. Anda dapat menginstal alat apa pun hanya dengan sekali klik. Tool-X dibuat khusus untuk Termux dan terminal GNURoot Debian.
@@ -110,6 +108,10 @@ sh install.aex
 - *Tool-X kini telah berhasil diinstal. Untuk menjalankan Tool-X, ketik.*
 
 - *Sekarang ketik Tool-X dari mana saja di terminal Anda untuk membuka Tool-X.Tetapi gunakan alat ini hanya untuk tujuan yang sah.*
+
+- *Silahkan Cek Juga*
+
+[![termux](https://img.shields.io/badge/Tool~X-83%2B-yellow.svg?style=flat)](https://github.com/ekadanuarta/Tool-X)
 
 # Social Media
 
