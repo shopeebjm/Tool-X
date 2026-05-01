@@ -49,7 +49,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
-<h2 align="left">
+<br/>
 
 **Command Prompt On Termux**
 ```
