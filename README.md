@@ -19,13 +19,13 @@ Install alat apa pun hanya dengan sekali klik. Anda dapat menginstal hampir 70 a
 
 <br/><br/><br/>
 
-# How to use ?
+# Bagaimana Cara Menggunakannya ?
 
-- Type 0 : To install all tools.
-- Type 1 : to sow all available tools and type the number of a tool which you want to install.
-- Type 2 : if you want to update Tool-X.
-- Type 3 : if you know About us.
-- Type x : for exit.
+- Tipe 0: Untuk menginstal semua alat.
+- Tipe 1: untuk menampilkan semua alat yang tersedia dan ketik nomor alat yang ingin Anda pasang.
+- Tipe 2: jika Anda ingin memperbarui Tool-X.
+- Tipe 3: jika Anda tahu Tentang kami.
+- Ketik x: untuk keluar.
 
 <br/><br/><br/>
 
