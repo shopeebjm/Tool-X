@@ -5,12 +5,12 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=vaginessa.visitor-badge-tool-x" />
 
-Tool-X is a kali linux hacking Tool installer for android. Tool-X is Developed By Rajkumar Dusad. with the help of Tool-X you can install best tools in termux app on android. In the Tool-X there are almost 70 hacking tools available for termux app and GNURoot Debian terminal. you can install any tool by single click. Tool-X is Specially made for Termux and GNURoot Debian Terminal.
+Tool-X adalah penginstal alat peretasan Kali Linux untuk Android. Tool-X dikembangkan oleh Rajkumar Dusad. Dengan bantuan Tool-X, Anda dapat menginstal alat-alat terbaik di aplikasi Termux pada Android. Di Tool-X terdapat hampir 70 alat peretasan yang tersedia untuk aplikasi Termux dan terminal GNURoot Debian. Anda dapat menginstal alat apa pun hanya dengan sekali klik. Tool-X dibuat khusus untuk Termux dan terminal GNURoot Debian.
 <br/><br/><br/>
 
-# Features
+# Fitur
 
-Install any tools by single click. You can install almost 70 tools in termux and GNURoot Debian Terminal.
+Install alat apa pun hanya dengan sekali klik. Anda dapat menginstal hampir 70 alat di Termux dan GNURoot Debian Terminal.
 <br/></br>
 
 <p align="center">
