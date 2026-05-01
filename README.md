@@ -29,9 +29,14 @@ Install alat apa pun hanya dengan sekali klik. Anda dapat menginstal hampir 70 a
 
 <br/><br/><br/>
 
-# Warning
+## ⚠️ Disclaimer
 
-## I am not expert so use this tool at your own risk.
+> Alat ini dikembangkan khusus untuk tujuan pendidikan dan pengujian penetrasi yang diizinkan saja.
+> Pengembang Evil-Eye tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini.
+> Menggunakan alat ini terhadap individu atau sistem apa pun tanpa izin tertulis yang jelas adalah ilegal.
+> Dengan menggunakan alat ini, Anda setuju bahwa Anda sepenuhnya bertanggung jawab atas tindakan Anda.
+
+> Saya bukan ahli, jadi gunakan alat ini dengan risiko Anda sendiri.
 
 <br/><br/><br/>
 
