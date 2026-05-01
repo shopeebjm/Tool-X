@@ -77,7 +77,7 @@ Jika Tidak Berhasil,Ketik
 ./install.aex
 ```
 
-*Now Tool-X is installed successfully. To run Tool-X Type*
+*Tool-X kini telah berhasil diinstal. Untuk menjalankan Tool-X, ketik.*
 
 Now type Tool-X from anywhare in your terminl to open Tool-X.
 
