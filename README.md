@@ -12,7 +12,7 @@
 
 Tool-X adalah penginstal alat peretasan Kali Linux untuk Android. Tool-X dikembangkan oleh Rajkumar Dusad. Dengan bantuan Tool-X, Anda dapat menginstal alat-alat terbaik di aplikasi Termux pada Android. Di Tool-X terdapat hampir 70 alat peretasan yang tersedia untuk aplikasi Termux dan terminal GNURoot Debian. Anda dapat menginstal alat apa pun hanya dengan sekali klik. Tool-X dibuat khusus untuk Termux dan terminal GNURoot Debian.
 
-# Fitur
+**Fitur**
 
 Install alat apa pun hanya dengan sekali klik. Anda dapat menginstal hampir 70 alat di Termux dan GNURoot Debian Terminal.
 <br/></br>
@@ -21,7 +21,7 @@ Install alat apa pun hanya dengan sekali klik. Anda dapat menginstal hampir 70 a
 <img src="https://github.com/vaginessa/Tool-X/blob/master/.sc/Tool-X%20Logo.jpg"/>
 </p>
 
-# Bagaimana Cara Menggunakannya ?
+**Bagaimana Cara Menggunakannya ?**
 
 - Tipe 0: Untuk menginstal semua alat.
 - Tipe 1: untuk menampilkan semua alat yang tersedia dan ketik nomor alat yang ingin Anda pasang.
@@ -29,20 +29,19 @@ Install alat apa pun hanya dengan sekali klik. Anda dapat menginstal hampir 70 a
 - Tipe 3: jika Anda tahu Tentang kami.
 - Ketik x: untuk keluar.
 
-## ⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 > Alat ini dikembangkan khusus untuk tujuan pendidikan dan pengujian penetrasi yang diizinkan saja.
 > Pengembang Evil-Eye tidak bertanggung jawab atas penyalahgunaan atau kerusakan apa pun yang disebabkan oleh program ini.
 > Menggunakan alat ini terhadap individu atau sistem apa pun tanpa izin tertulis yang jelas adalah ilegal.
 > Dengan menggunakan alat ini, Anda setuju bahwa Anda sepenuhnya bertanggung jawab atas tindakan Anda.
-
 > Saya bukan ahli, jadi gunakan alat ini dengan risiko Anda sendiri.
 
-# Persyaratan
+**Persyaratan**
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
 
-Unduh Aplikasi Termux Nya Dibawah Ini
+- Unduh Aplikasi Termux Nya Dibawah Ini
 
 👇👇
 
@@ -51,7 +50,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
 
 
-# Command Prompt On Termux
+**Command Prompt On Termux**
 ```
 apt update && apt upgrade -y
 ```
