@@ -110,8 +110,7 @@ sh install.aex
 - *Sekarang ketik Tool-X dari mana saja di terminal Anda untuk membuka Tool-X.Tetapi gunakan alat ini hanya untuk tujuan yang sah.*
 
 - *Silahkan Cek Juga*
-
-[![termux](https://img.shields.io/badge/Tool~X-83%2B-yellow.svg?style=flat)](https://github.com/ekadanuarta/Tool-X)
+[![termux](https://img.shields.io/badge/Tool—X-83%2B-yellow.svg?style=flat)](https://github.com/ekadanuarta/Tool-X)
 
 # Social Media
 
