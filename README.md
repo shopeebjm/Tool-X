@@ -48,6 +48,7 @@ Install alat apa pun hanya dengan sekali klik. Anda dapat menginstal hampir 70 a
 [![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
 [![Android](https://img.shields.io/badge/Android-15-yellow.svg?style=flat)](https://developer.android.com/about/versions/15?hl=id)
+
 <h2 align="left">
 
 **Command Prompt On Termux**
