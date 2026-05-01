@@ -79,7 +79,7 @@ sh install.aex
 
 - *Sekarang ketik Tool-X dari mana saja di terminal Anda untuk membuka Tool-X.*
 
-- *Bagaimana cara menginstal GNURoot di Terminal Debian?*
+**Bagaimana cara menginstal GNURoot di Terminal Debian**
 
 - *Buka aplikasi GNURoot Debian dan ketik perintah berikut.*
 ```
